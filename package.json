@@ -1,0 +1,13 @@
+{
+    "name": "lottery-sim-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "LotterySim.js",
+    "type": "module",
+    "scripts": {
+        "test": "node testLotterySim.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
